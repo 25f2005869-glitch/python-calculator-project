@@ -1,8 +1,5 @@
 # python-calculator-project
 A simple Python CLI calculator that performs basic arithmetic operations using functions, loops, and exception handling.
-# Python CLI Calculator
-
-A simple command-line calculator built using Python.
 
 ## Features
 - Addition
