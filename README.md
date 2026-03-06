@@ -1,5 +1,7 @@
-# python-calculator-project
-A simple Python CLI calculator that performs basic arithmetic operations using functions, loops, and exception handling.
+# Python CLI Calculator
+
+A simple command-line calculator built using Python.  
+This program performs basic arithmetic operations and demonstrates the use of functions, loops, and exception handling.
 
 ## Features
 - Addition
@@ -10,12 +12,25 @@ A simple Python CLI calculator that performs basic arithmetic operations using f
 - Loop for multiple calculations
 
 ## Concepts Used
-- Functions
-- Conditional statements
-- Loops
-- Exception handling
+- Python Functions
+- Conditional Statements (if/elif)
+- Loops (while)
+- Exception Handling
 
-## Run the program
+## Run the Program
 
 ```bash
 python cli_calculator.py
+```
+
+## Project Structure
+
+```
+python-calculator-project
+│
+├── cli_calculator.py
+└── README.md
+```
+
+## Author
+Saloni Tiwari
